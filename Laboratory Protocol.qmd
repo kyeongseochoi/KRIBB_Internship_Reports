@@ -1,0 +1,61 @@
+---
+title: "KRIBB and CNU Bioengineering Internship Labatory Protocol"
+author: "Kyeongseo Choi"
+format: html
+editor: visual
+---
+
+# Laboratory Protocol
+
+## Gibson Assembly
+
+**Introductions**
+
+There are many ways DNA fragments can be assembled together. Before Gibson Assembly was developed in 2009, the most common way to assembling DNA fragments was using restriction enzyme digestion and reassembling by using DNA Ligase.
+
+**Materials**
+
+**Procedures**
+
+**Results/Conclusion**
+
+## Streaking
+
+## Ultra Competent Cell Preparation (DH5$\alpha$)
+
+**Introductions**
+
+Like the process of using $CaCl_2$ solution to make the E.coli cells chemically competent for transformation, there is another solution can used to provide certain strains of E.coli with chemical competence that is far superior in efficiency than $CaCl_2$. The solution is called the Inoue buffer named after Masamichi Inoue created the buffer and the process of making these new competent cells. While the previous method had a transformation efficiency of about 1\*10\^6 to 7 transformed colonies/$\mu g$, the Inoue method raises the efficiency to 1\*10\^8 to 3\*10\^8, making what known as "Ultracompetent" cells in tribute to their magnitudes higher transformation efficiency. However, other than a few minor differences in materials and procedures, the actual differences in how it is prepared is comparatively unremarkable. This report will outline the materials and procedures.
+
+**Materials**
+
+-Inoue Transformation Buffer (Components outlined in a chart)
+
+-SOB medium (Components outlined in a chart)
+
+**Protocols**
+
+Inoue Transformation buffer
+
+| Reagent               | Amount/L | Final Concentration |
+|-----------------------|----------|---------------------|
+| $MnCl_2$ $4H_2O$      | 10.88 g  | 50 mM               |
+| $CaCl_2$ $2H_2O$      | 2.20g    | 15 mM               |
+| $KCl$                 | 18.65 g  | 250 mM              |
+| PIPES(0.5M, pH 6.7)\* | 20 mL    | 10 mM               |
+| $H_2O$                | to 1 L   |                     |
+
+\*piperazine-1,2-bis(2-ethanesulfonic acid) (Alfa Aesar, catalog number: 3p B21835-22)
+
+1.  Put in recipe in triple DW and stir
+
+2.  Pour the created buffer in 50 mL Palcon-tube through 0.45um syringe filtration then refrigerate. Keep cold until immediate use.
+
+    |               |          |
+    |---------------|----------|
+    | Regent        | Amount/L |
+    | Tryptone      | 20 g     |
+    | Yeast Extract | 5 g      |
+    | NaCl          | 0.5 g    |
+    | 250 nM KCl    | 10 mL    |
+    | 1st DW        | to 1L    |
