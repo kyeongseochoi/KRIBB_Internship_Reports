@@ -1,0 +1,83 @@
+---
+title: ""Ultra Competent" Cell Prep (Inoue Method)"
+author: "Kyeongseo Choi"
+format: html
+editor: visual
+---
+
+## 
+
+## Ultra Competent Cell Preparation (DH5$\alpha$)
+
+**Introductions**
+
+Like the process of using $CaCl_2$ solution to make the E.coli cells chemically competent for transformation, there is another solution can used to provide certain strains of E.coli with chemical competence that is far superior in efficiency than $CaCl_2$. The solution is called the Inoue buffer named after Masamichi Inoue created the buffer and the process of making these new competent cells. While the previous method had a transformation efficiency of about 1\*10\^6 to 7 transformed colonies/$\mu g$, the Inoue method raises the efficiency to 1\*10\^8 to 3\*10\^8, making what known as "Ultracompetent" cells in tribute to their magnitudes higher transformation efficiency. However, other than a few minor differences in materials and procedures, the actual differences in how it is prepared is comparatively unremarkable. This report will outline the materials and procedures.
+
+**Materials**
+
+-Inoue Transformation Buffer (Components outlined in a chart)
+
+-SOB medium (Components outlined in a chart)
+
+**Protocols**
+
+**-Inoue Transformation buffer**
+
+| Reagent               | Amount/L | Final Concentration |
+|-----------------------|----------|---------------------|
+| $MnCl_2$ $4H_2O$      | 10.88 g  | 50 mM               |
+| $CaCl_2$ $2H_2O$      | 2.20g    | 15 mM               |
+| $KCl$                 | 18.65 g  | 250 mM              |
+| PIPES(0.5M, pH 6.7)\* | 20 mL    | 10 mM               |
+| $H_2O$                | to 1 L   |                     |
+
+\*piperazine-1,2-bis(2-ethanesulfonic acid) (Alfa Aesar, catalog number: 3p B21835-22)
+
+1.  Put in recipe in triple DW and stir
+
+2.  Pour the created buffer in 50 mL Palcon-tube through 0.45um syringe filtration then refrigerate. Keep cold until immediate use.
+
+    **- SOB Medium (Super Optimal Broth)**
+
+    |                                               |          |
+    |-----------------------------------------------|----------|
+    | Regent                                        | Amount/L |
+    | Tryptone (Source of amino acids and peptides) | 20 g     |
+    | Yeast Extract (Source of Nutrients)           | 5 g      |
+    | NaCl ( + effectiveness in Yeast Extract)      | 0.5 g    |
+    | 250 nM KCl (ion Balancing: membrane Health)   | 10 mL    |
+    | 1st DW                                        | to 1L    |
+
+    \*Make 250 nM KCl: 1.86 g KCl + 100 mL 3rd DW
+
+    \*2 M $MgCl_2$: 19 g $MgCl_2$ + 90 mL 3rd DW
+
+    Stir after putting in recipe -\> Autoclave -\> Before use, put in 2M $MgCl_2$ 5 mL ( ex. 1.25 mL in 250)
+
+**Actual Protocol**
+
+1.  At night, seed a fresh $DH5\alpha$ single colony in 25 mL SOB + $MgCl_2$ (250 mL baffled flask). Incubate overnight at $37^oC$ at 200 rpm -\> Sub-Culture
+
+2.  Next Morning, extract 1% by volume of the main culture from the subculture and seed it . *Be very careful for contamination\** (eg. 2.5mL subculture seeding for 250 mL main). Start incubation of main culture at $18^oC$, 150 rpm. Also prepare the ITB buffer the night before
+
+3.  Use a spectrophotometer to measure the optical density (OD). The wavelength is set to 600 nm and the ideal OD measurement is 0.55. (0.5 \~ 0.6 is optimal and above 0.7 is unusable)
+
+    Reasons are unclear why best efficiency is reached when incubated at $18^oC$ but a educated guess is that the temperature leads to the membrane having more favorable characteristics for chemical transfer.
+
+    \*Prepare the ITB, Chilled Tips and Cylinders for swift and quick production of competent cells.
+
+4.  Harvest -\> Prepare 50 mL palcon-tubes and distribute the grown cells by 48 mL in each tube until none left. (Calibrate the last one tube as some will be left over) Place in cold centrifuge (2500 x g, $4^oC$, 10 min)
+
+5.  Remove all supernatant product from the tube by dumping and pipetting. -\> White pellet should remain.
+
+6.  In the 49 mL harvested cells, pipette 15.5 mL of chilled ITB (Calibrate for the late tube). Resuspend the cells in the ITB buffer by tapping.
+
+7.  Combine two of the resuspended tubes into a single tube then centrifuge once more (2500 x g, $4^oC$, 10 min). Drain all supernatant product.
+
+8.  Pipette 20 mL of ITB in the twice harvested cells and resuspend them through tapping.
+
+9.  Pipette 1.5 mL of Dimethyl Sulfoxide (DMSO) (Cryoprotectant -\> infiltrates the cell membrane and prevents ice crystals from forming) into the tube and mix it by tapping. Place it on ice for 5 minute RT.
+
+10. Distribute the now competent cells by $200 \mu L$ in microtubes, which will already be placed in the boxes and chilled.
+
+11. The cells can either be used right away for will be instantly freeze through liquid hydrogen and placed in the deep freezer for future use.
