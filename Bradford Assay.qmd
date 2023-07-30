@@ -1,0 +1,74 @@
+---
+title: "Bradford Assay"
+author: "Kyeongseo Choi"
+format: html
+editor: visual
+---
+
+\-\--
+
+# Bradford Assay
+
+**Introduction**
+
+As the one of the four biological macromolecules, proteins are substances that are dealt constantly in bioengineering labs. And there are numerous ways to measure the concentration of the proteins when dissolved in a liquid. One of the ways that is considered simplistic, speedy, but also accurate is the Bradford Assay. The way it works by utilizing a chemical stain known as **Coomassie Brilliant Blue (G-250)**, which is a dye that go through color change when reacted with proteins. The bond between the dye and the protein is ionic and best results are obtained when the reaction takes place in acidic solutions, but distilled water is also acceptable. The color change goes from Brown to Blue when the dye reacts with proteins and the amount is proportional to the concentration of the protein in the solution. By using a Spectrophotometer, the absorbance is measured to determine the concentration. The light wavelength used is 595 nm. By doing series dillution of a protein solution with known concentrations, a linear regression can be drawn that relates absorbance and concentration. This linear regression will be used to find the concentration of unknown same protein solutions.
+
+**Purpose**
+
+The following experiment will use Bradford Assay to determine the concentration series dilluted Bovine Serum Albumin (BSA) (20mg/mL) solution by using the CLARLO star control
+
+**Materials/Methods**
+
+-   P10, P100 Pipette - Distilled Water
+
+-   6 Microtubes (5mL)
+
+-   Bradford Assay Plate
+
+-   Coomassie Brilliant Blue G-250 Dye
+
+-   Bovine Serum Albumin (20mg/mL)
+
+-   CLARLO star control
+
+1.  Prepare the 6 Microtubes and place them onto the tube rack.
+
+2.  Place 5 $\mu L$ of BSA solution into the one of the tubes and add 95 $\mu L$ of distilled water.
+
+3.  Series dilute the following tube in accordance to the table below. Label them accordingly.
+
+    |                    |                 |               |                              |
+    |--------------------|-----------------|---------------|------------------------------|
+    | **Standard Conc'** | BSA ($\mu L$)   | DDW ($\mu L$) | Total (After Dil') ($\mu L$) |
+    | 1                  | 5               | 95            | 50                           |
+    | .5                 | 50 (from 1)     | 50            | 50                           |
+    | .25                | 50 (from 0.5)   | 50            | 50                           |
+    | .125               | 50 (from 0.25)  | 50            | 50                           |
+    | .0625              | 50 (from 0.125) | 50            | 100                          |
+    | 0                  | 0               | 50            | 50                           |
+
+4.  Move the 10 $\mu L$ samples into the wells of the Bradford assay plates
+
+5.  In accordance the sample:G250 ratio, add 200 $\mu L$ of G20 to each of the wells (1 mL for 50 $\mu L$ sample)
+
+6.  Leave the plate for 5 minutes in room temperature so the dye can fully react with the protein
+
+7.  Using the Spectrophotometer, measure the absorbance for the 595 nm wavelength.
+
+8.  Create a linear regression relating the concentration (mg.mL) to the absorbance (unitless)
+
+9.  Note the regression equation and also the r-sqaured value.
+
+10. Now with any BSA sample with an unknown concentration can be analyzed by using the linear model
+
+**Results and Discussion**
+
+Below is the linear regression constructed from the absorbence.
+
+![](Images/BradfordAssayLinearRegression.png){fig-align="center" width="497"}
+
+Eventhough the $R^2$ = 0.9682 was a bit shy from the acceptable value of .97 or above, the linear trend was definitely established, which means the protein-dye reaction was done correctly and the absorbances correctly measured.
+
+The lacking in R-sqrd value most likely come from the errors in pipetting and aliquoting to the wells of the plate.
+
+With that being said, the linear model constructed was y = 0.9007 x + 0.0612 where the x values is the concentration and the y is the absorbance.
