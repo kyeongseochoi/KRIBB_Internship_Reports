@@ -1,0 +1,65 @@
+---
+title: "Colony Polymerase Chain Reaction Report"
+author: "Kyeongseo Choi"
+format: html
+editor: visual
+---
+
+**Introduction**
+
+Polymerase Chain Reaction (PCR) is a laboratory technique that amplifies the number of desired DNA sequence. It a technique that is used extensively in bio and bioengineering labs, making research pretty much impossible without it. When analyzing Nucleic acids in the molecular level, you can't really obtain that much information from having a single DNA fragment for it is too fragile and small to be able analyze or manipulate. This is where PCR is applied to multiply the number of the fragment. The technique was invented by an American biochemist named Kary Mullis in 1983, winning the Nobel prize in 1993 for his achievement. PCR works by extracting components from DNA replication, like the Polymerase, from thermophilic bacteria (which will have a relatively high activation temperature threshold) and controlling the temperature below and beyond the activation temperature threshold to trigger pretty much DNA replication. The device that is used to vary the temperature are Thermocyclers. They continue to cycle through temperatures that inactivate and activate the Polymerase, making it replicate the fragment each time. And for each cycle there are generally three steps which are Denaturation, Annealing, and Extension. Denaturation is when the DNA, which is double stranded, is subjected to high temperatures so that the strand separate, breaking the hydrogen bonds between the nitrogenous bases. The next step, Annealing, is when the temperature is lowered so that small complementary fragments of DNA could attach to both seperated strand of DNA. These small fragments were engineered beforehand to match the strands and they are added because Polymerase simply cannot build off the template strand without a starting point, and these small fragments, which are called primers, act as these starting points. Also one thing to note that the temperature for the annealing step is actually the melting point of the DNA strand, which means approximately 50 percent of the strand has been separated while the other 50 percent has been annealed again. With the primer attached, the temperature is raised to when the Polymerase activates, leading the Extension step. This is when the polymerase begins to build the complementary strand started from the primer based off the template. This completes one cycle of PCR. The image below demonstrates this visually.
+
+![](Images/PCR%20diagram.png){fig-align="center" width="471"}
+
+As it can be seen in the diagram above, the end result is the doubling in the number of DNA strands for one cycle. For a typical PCR, around 30 \~ 50 cycles are executed, which means it is doubled in amount, leading to $2^{30}$ \~ $2^{50}$ in multiplication from the original amount. For PCR, typically only DNA is placed inside the thermocycler along with the PCR components (Polymerase, Primer, etc), but full cell colonies can be placed as well for most of needless materials like cell walls and organs will be denatured and destroyed in the Thermocycler. Even though it leads to slight drop in efficiency, it rids of the hassle of mini prepping the DNA. The overall purpose of the following PCR is to simply the check the presence of certain DNA strands rather than the actual extraction of the amplified DNA so the efficiency is not of concern. This is also the reason for the solution volume that is being put in the Thermocycler is a lot less than if DNA extraction was the main goal (check Template PCR for details on DNA extraction). Also the Polymerase, when purchased from companies, will be in the form of the Polymerase mix, which contains the Polymerase, dNTPs, MgCl2 (co-factor to the Polymerase), and reaction buffer. The following experiment will go through PCR using a colony.
+
+**Materials (Specific to CNU Laboratory)**
+
+-Pk7-sfGFP LB Broth Colonies
+
+-Bioneer Premix (Bromophenol Blue(AGE), Taq Polymerase, $MgCl_2$)
+
+-Thermocycler
+
+-Foward and Reverse primer for vector and sf-GFP gene
+
+-DW
+
+-1% TAE Buffer Agarose Gel (with Red safe Dye) -\> Need to write about AGE
+
+-PCR tubes
+
+**Procedures**
+
+-Prepare 2 PCR Tubes
+
+-For preparing the solution to put in the Thermocycler, the colony, foward & reverse primers, Polymerase mix have to added in a certain proportion with the final volume being 20 $\mu L$. The components are shown in the table below.
+
+|                                  |                                                 |
+|-----------------------------|-------------------------------------------|
+| **Components**                   | **Volume (**$\mu L$) (Total Volume: 20 $\mu L$) |
+| Colony                           | 1                                               |
+| PCR Master mix Premix            | 10                                              |
+| Foward Primer (10 pmol/$\mu L$)  | 2                                               |
+| Reverse Primer (10 pmol/$\mu L$) | 2                                               |
+| D.W.                             | 5                                               |
+
+-With all components added use the Vortex machine to mix it thoroughly.
+
+-Use the Thermocycler with the settings shown below.
+
+|                  |              |        |                                          |
+|--------------|:------------:|:------------:|:-----------------------------:|
+| **Steps**        | Temp ($C^o$) |  Time  |                  Cycles                  |
+| Pre-Denaturation |      95      | 5 min  |                 1 cycle                  |
+| Denaturation     |      95      | 20 sec | 30 cycles from Denaturation to Extension |
+| Annealing        |      50      | 20 sec |                    \*                    |
+| Extension        |      72      | 45 sec |                    \*                    |
+| Final Extension  |      72      | 3 min  |                 1 cycle                  |
+| Finished         |      4       |   x    |                    x                     |
+
+-With Thermocycler finished, it will be placed into the Agarose Gel Electrophoresis (AGE), where the presence of different length strand will be observed.
+
+**Results**
+
+![](Images/ColonyPCRAGEResults.png){fig-align="center" width="66"}
