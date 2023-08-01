@@ -1,0 +1,46 @@
+---
+title: "TA Cloning"
+author: "Kyeongseo Choi"
+format: html
+editor: visual
+---
+
+**Introduction**
+
+There are numerous methods in combining insert and vector fragments together. There is the traditional Restriction enzyme and ligation, Gibson Assembly, Golden gate assembly and others. There is another method that has the advantage of being efficient and simple compared other methods of DNA cloning. When some DNA Polymerase perform PCR, such as Taq, they leave single deoxyandenosine (A) bases to the 3' end of the PCR product. This is what is known as "terminal transferase activity", which is suspected to be caused of the lack of Taq polymerase and other low fidelity Polymerases' proof reading ability, leading to the overhang. But this characteristic can be taken advantage so that the assembly between the insert and the vector can be made more efficient. After doing PCR of the insert with Polymerase that is known to create an A overhang, vector fragment can be engineered the to contain a deoxythymine (T) sticky end, which is the complementary base pair to A. This would allow the fragments to anneal naturally. This gets rid of the need for the vector and the insert to go through a complicated restriction enzyme digest and accounting for overlapping base pairs. After the insert and the vector has been annealed, the two fragments can be ligated using a DNA ligase. But for this experiment, rather using the traditional DNA ligase-based method, a enzyme called Topoisomerase I (Topo I) will be used instead. The following enzyme is originally used in DNA replication, where is uncoils the helix of the DNA so that the strands can be separated and replicated. How this is achieved is by temporarily cutting the DNA backbone, uncoiling it, and ligated it again so that the coil is no longer there. This usually single base cutting and ligation phenomenon of Topo I can be taken advantage of by making it ligate the single base pair separated between the insert and vector fragment in TA Cloning. The advantage to using this enzyme over a **DNA ligase is that the ligation will be finished in a matter of minutes, making it efficient and simple. Also because Topo I is covalently attached to to the linearized vector DNA**
+
+\*phosphorylating DNA and also explaining the benefits of Topo I
+
+**Purpose\
+**The TA cloning between the insert with a A-blunt end and a vector with a T blunt end with the use of Topoisomerase I.
+
+**Materials**
+
+-Taq Polymerase PCR product of Insert (Amount is 20 ng or above). 130 bp insert (2000nM: 1 $\mu L$)
+
+-6X T-Blunt Buffer
+
+-T-blunt Vector (4.251 nM; As much it is required)
+
+-3rd DW
+
+**Procedures**
+
+-Through Dilution, make the ratio **insert : vector = 8 : 1** in concentration (in nM)
+
+-With 1 $\mu L$ of 2000 nM insert vector present, the diluted insert vector should have a final concentration of about 34 nM.
+
+-Setting up the ratio 2000 nM \* 1$\mu L$ = 34 nM \* x, The final volume of the insert is 58.82 $\mu L$, which means 57.8 $\mu L$ must be added to the 2000 nM, 1 $\mu L$ solution to make it the correct concentration for the reaction. From this point on, when referring the insert, it will be the diluted solution.
+
+|                      |                  |
+|:---------------------|:----------------:|
+| Component            | Volume ($\mu L$) |
+| PCR Product (Insert) |        1         |
+| 6X T-blunt buffer    |        1         |
+| T - Blunt Vector     |        1         |
+| D.W                  |        3         |
+| Total Volume         |        6         |
+
+-With all components mixed together, place it in room temperature (25 $C^o$) for 5 minutes
+
+-Through Heat Shock Transformation allow the competent cell to transform and grow in an Ampicilin plate.
