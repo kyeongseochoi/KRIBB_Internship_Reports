@@ -1,0 +1,58 @@
+---
+title: "Heat Shock Transformation"
+author: "Kyeongseo Choi"
+format: html
+editor: visual
+---
+
+**Introduction**
+
+In general for bacteria, there are two types of genetic material. First is the genomic DNA contained in the nucleoid, which contains the genes that are essential to the survival of the organism. The second are small circular DNA that are known as plasmid DNA. There are often times not essential for the organisms survival and often did not even originate from the bacteria itself, making them foreign DNA. The reasons for these outsider DNA inside bacteria are interestingly related to their reproduction and natural selection. Because bacteria mainly reproduce through binary fission, their off springs are genetically identical to their parent. This in the context of natural selection is terrible for it leads to a problem of lack in genetic diversity, and therefore the decrease in the chance of survival of the species as whole. Plasmid DNA is the solution this evolutionary problem. As DNA that oftentimes freely float around in the cytoplasm, they oftentimes end up inside and outside the cell, one occasion being binary fission. The variety in the Plasmids are what causes genetic differentiation between organisms, which often have genes that create resistance to certain toxins or antibiotics. In the field of bioengineering takes advantage of this highly mobile DNA in bacteria and achieve DNA editing and manipulation. Researchers engineer Plasmids so they contain desired genes or sequences before hand and allow the bacteria to absorb it. This makes bacteria produce desired Phenotypes or produce biological materials. The step in which making bacteria absorb the plasmid is called Transformation. There are variety of ways in transformation, but this experiment will deal with Heat Shock Transformation for E. coli bacteria. The mechanism behind Heat Shock Transformation is, like in the name, is by shocking the bacteria with high temperatures (42 $C^o$) temporarily creates pores in the membrane so that it can readily absorb the plasmid DNA. \*One thing to note that the cells are made competent. Check the the "Preparation of Chemically Competent Cells" lab report for further details.
+
+**Materials**
+
+\-$CaCl_2$ Competent E. coli cells
+
+-SOB Media (Super Optimal Broth)
+
+-DNA Plasmid to Transform (Pk7-sfGFP -\> contains green bio fluorescence and Ampicillin resistance)
+
+-Ampicillin agar plate
+
+-Heat Bath (42 $C^o$)
+
+-1.5 mL microtubes
+
+-Centrifuge
+
+-Chilled Tips (Competent cells are fragile so chilled tips must be used to prevent lost in competence)\
+
+**Procedures**
+
+-Prepare 42 $C^o$ Heat Bath
+
+-Place the competent cells in an ice bucket to raise the temperature (from -70 $C^o$ to 4 $C^o$)
+
+-After sufficient time transfer 100 $\mu L$ of competent cells to the microtube using the chilled tips
+
+-Using chilled tips transfer 2 $\mu L$ of plasmids into the microtube that has the competence cells. Then let it rest for 30 minutes for the plasmids and competent cells to mix in the ice bucket.
+
+-Prepare a timer and place the tubes in the bath. Start the timer at the same time as when the cells are placed in the bath. The duration should be close to 90 seconds as much as possible. After that place the tube back into the ice bucket and let it rest for 5 minutes.
+
+-After pipette 900 $\mu L$ SOB solution into the tube and let it rest in room temperature for about an hour. The reason for doing is to let the cell rest and also cycle through at least one generation after transformation has occurred, letting the plasmid fully incorporate.
+
+-Using centrifuge set it to 4000 rpm to pellet the cells on the bottom of the tube.
+
+-Dispose 900 $\mu L$ of the supernatant through pipetting and resuspend the rest through careful pipetting.
+
+-Spread the cells using a spreader under a clean bench on the ampicillin agar plate
+
+-Place the plates in the incubator upside down and incubate for 17 hours in 37 $C^o$.
+
+-After 17 hours check the yield.
+
+**Results/Discussion**
+
+The image below the grown sf-GFP cells. The yield is very good.
+
+![](Images/HeatShockTransformationsfGFP.jpg){fig-align="center" width="227"}
