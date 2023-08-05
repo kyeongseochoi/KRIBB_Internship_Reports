@@ -11,51 +11,39 @@ editor: visual
 
 **Introductions**
 
-There are many ways DNA fragments can be assembled together. Before Gibson Assembly was developed in 2009, the most common way to assembling DNA fragments was using restriction enzyme digestion and reassembling by using DNA Ligase.
+There are many ways DNA fragments can be assembled together. Before Gibson Assembly was developed in 2009, the most common way to assembling DNA fragments was using restriction enzyme digestion and reassembling by using DNA Ligase. But with development of Gibson Assembly, the process of DNA cloning has become significantly simpler and efficient. Rather than relying the recognition of restriction sites, Gibson assembly takes advantage of engineered common regions between the insert and the vector. While trying to pick the right restriction site and assembling takes times and lots of consideration before hand, the common region between the insert and the vector can be relatively easily created. With the use certain primers for both the insert and the vector and amplifying through PCR, they are pretty much ready for Gibson Assembly. During the assembly process, 5' Exonuclease comes into break down the 5' end of both the insert and the vector fragment of the DNA. With each of their corresponding complementary strands broken down, the insert and the vector naturally anneal with one another through the common region. After the common region is annealed, DNA polymerase takes over to fill in what are gaps, which are portions of the insert and vector, that were not beyond the common region but were still broken down by the exonuclease. (exonuclease break down any single stranded DNA and their assigned direction.) With finally the DNA Ligase coming into to seal the small nicks (single nucleotide gaps) and seemlessly connect the insert and the fragment together is when Gibson Assembly is fully finished. The diagram shown below is a visual representation of the whole explanation.
+
+![](Kribb%20Lab%20Reports/Images/Gibson_Assembly_diagram.png){width="694"}
+
+This cloning method ultimately allows for a far simplistic, efficient and flexible process of DNA cloning, that cannot be possibly achieved through traditional methods that came before. Even though it has its own downsides which are potential inaccuracies during larger assemblies, inability to properly control directionality like Golden Gate assembly, and also the dependence on primer designing. However, the method has now become one of the most commonly used assembly method in many bioengineering labs for its overwhelming advantages.
 
 **Materials**
+
+**Gibson Assembly**
+
+-Purified Insert, vector DNA Solution
+
+-DW
+
+-Gibson Assembly Master Mix (2x) (Phusion polymerase, Taq ligase, 5' Exonuclease)
 
 **Procedures**
 
+**Gibson Assembly**
+
+\*The actual procedure for Gibson Assembly is rather simplistic for most of the consideration was done during primer designing and PCR. This is because all enzymes used in Gibson assembly are not sequence specific.
+
+-Prepare a thrmocycler tube and add the components of specificed amount and order from the chart below.
+
+|                          |                         |
+|--------------------------|:-----------------------:|
+| Compoentns               | Assembly Mixture Amount |
+| Vector (by weight)       |         100 ng          |
+| Insert (by weight)       |         300 ng          |
+| DW ($\mu L$)             |         up to 5         |
+| Gibson Mixture ($\mu L$) |            5            |
+| Total Volume ($\mu L$)   |           10            |
+
+Incubate samples in a thermocycler at 50°C for 15 minutes when 2 or 3 fragments are being assembled or 60 minutes when 4-6 fragments are being assembled. Following incubation, store samples on ice or at --20°C for subsequent transformation.
+
 **Results/Conclusion**
-
-## Streaking
-
-## Ultra Competent Cell Preparation (DH5$\alpha$)
-
-**Introductions**
-
-Like the process of using $CaCl_2$ solution to make the E.coli cells chemically competent for transformation, there is another solution can used to provide certain strains of E.coli with chemical competence that is far superior in efficiency than $CaCl_2$. The solution is called the Inoue buffer named after Masamichi Inoue created the buffer and the process of making these new competent cells. While the previous method had a transformation efficiency of about 1\*10\^6 to 7 transformed colonies/$\mu g$, the Inoue method raises the efficiency to 1\*10\^8 to 3\*10\^8, making what known as "Ultracompetent" cells in tribute to their magnitudes higher transformation efficiency. However, other than a few minor differences in materials and procedures, the actual differences in how it is prepared is comparatively unremarkable. This report will outline the materials and procedures.
-
-**Materials**
-
--Inoue Transformation Buffer (Components outlined in a chart)
-
--SOB medium (Components outlined in a chart)
-
-**Protocols**
-
-Inoue Transformation buffer
-
-| Reagent               | Amount/L | Final Concentration |
-|-----------------------|----------|---------------------|
-| $MnCl_2$ $4H_2O$      | 10.88 g  | 50 mM               |
-| $CaCl_2$ $2H_2O$      | 2.20g    | 15 mM               |
-| $KCl$                 | 18.65 g  | 250 mM              |
-| PIPES(0.5M, pH 6.7)\* | 20 mL    | 10 mM               |
-| $H_2O$                | to 1 L   |                     |
-
-\*piperazine-1,2-bis(2-ethanesulfonic acid) (Alfa Aesar, catalog number: 3p B21835-22)
-
-1.  Put in recipe in triple DW and stir
-
-2.  Pour the created buffer in 50 mL Palcon-tube through 0.45um syringe filtration then refrigerate. Keep cold until immediate use.
-
-    |               |          |
-    |---------------|----------|
-    | Regent        | Amount/L |
-    | Tryptone      | 20 g     |
-    | Yeast Extract | 5 g      |
-    | NaCl          | 0.5 g    |
-    | 250 nM KCl    | 10 mL    |
-    | 1st DW        | to 1L    |
