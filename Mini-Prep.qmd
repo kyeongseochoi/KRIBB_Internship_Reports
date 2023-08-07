@@ -1,0 +1,50 @@
+---
+title: "DNA Miniature Preparation"
+author: "Kyeongseo Choi"
+format: html
+editor: visual
+---
+
+**Introduction**
+
+Because genetic materials are not isolated by themselves, but are always inside living organisms, the step to extract and purify them before use is essential. DNA Miniature preparation is a systematized, relatively quick small quantity DNA extraction method, mostly used in isolating DNA from bacteria. Even though there maybe minor differences for across companies that make mini-prep kits, the essential steps are the same, which are mostly separated by four different chemical solutions that perform their own purposes. For the sake of consistency, the quick explanations of the steps will be based off the Macherey-Nagel DNA mini prep kit, which are labeled A1, A2, A3, and AQ for the four solutions. The A1 solution is called the Resuspension (with RNase) buffer, which like the name states, Resuspends the cells after they have been centrifuged for cell collection. A2 solution is called the Lysis buffer, which has a pH of over 12, making it highly basic. By using this solution, the cells are lysed and all its contents are taken out of the membrane. For Macherey-Nagel's kit, the Lysis buffer also contains Bromothymol blue, which is a pH indicator. Because of high pH, the solution originally has a blue color. Now A3 is added, which is the Neutralization buffer, which like the name state neutralizes the lysis buffer. With the correct amount, the pH have gone done, and therefore the indicator will turn from blue to clear. Finally AQ is the Wash Solution, and is mostly made up of ethanol. The ethanol is able to dissolve and wash most of the debris of the cell other than the DNA material. This is the rough steps and explanations to the solutions that are used. Through these steps, the small amount of the DNA from the cell can be isolated and used for further manipulation such as Restriction enzyme linearizaiton, PCR, and transformation.
+
+**Materials**
+
+-gloves
+
+-E. Coli Cells grown in LB broth (2mL)
+
+-1.5 mL microtubes
+
+\*From Macherey-Nagel
+
+-Mini column Assembly
+
+-Mini Prep Kit (A1: Resuspension Buffer, A2: Lysis Buffer, A3: Neutralization Buffer, AQ: Wash Buffer)
+
+-DDW
+
+**Procedure**
+
+1.  Bring the 2mL LB Broth grown E. Coli and pipette 1 mL into 1.5 mL microtubes. Centrifuge them at 11,000 RCF.
+
+2.  Dispose the supernatant and do the procedure once more in the same tube. This will maximize the cell yield. Dispose all supernant liquid.
+
+3.  Now pipette 250 $\mu L$ of both A1 and A2 buffer into the microtube and let it rest in room temperature for 5 minutes
+
+4.  After the rest time, pipette 300 $\mu L$ of A3 buffer into the microtube and carefully pipette to mix (DO NOT VORTEX beyond this point)
+
+5.  Centrifuge at a setting of 11,000 RCF for 5 minutes.
+
+6.  Pipette all of the supernatant (which contains the DNA) product into the Mini Column Assembly. (Be sure to avoid picking up any of the pellet on the buttom of the microtube)
+
+7.  Place the Mini Column Assembly in the centrifuge and put the setting on 11,000 RCF for 1 minute. Dispose all liquids that are formed in the bottom column. Now we can begin washing the DNA.
+
+8.  Pipette 600 $\mu L$ of AQ solution into the assembly and centrifuge at 11,000 RCF for 1 minute. Dispose liquids that are formed in to the bottom of the column. Repeat this step once more.
+
+9.  After completing the washing step, place the Mini Column Assembly by itself in the centrifuge and set it to 11,000 RCF for 2 minutes. More dry the membrane, the higher the yield concentration will become. (Leave it out in room temperature for 2 minutes for extra drying if needed)
+
+10. Finally, pipette 40 $\mu L$ of DW into the top Mini Column with the Collection tube assembled on the bottom. Wait for 5 minutes and then centrifuge at 11,000 RCF for 1 minute. Then you can dispose the top column and take the collection tube for dsDNA concentration measurement.
+
+**Conclusion**
