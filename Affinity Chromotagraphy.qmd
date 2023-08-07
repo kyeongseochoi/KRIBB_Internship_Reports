@@ -1,0 +1,12 @@
+---
+title: "Protein Purification"
+format: html
+editor: visua
+author: Kyeongseo Choi
+---
+
+# Affinity Chromatography based Protein Purification
+
+**Introduction**
+
+Proteins are an essential component to all biological systems including the cell. Proteins take part in almost every function and structure within in the cell. They are used, manipulated, synthesized, and destroyed for many different kinds of processes. Researchers utilize the cell's ability to synthesize proteins through the central dogma, to biologically synthesize and extract desired proteins. The process of extracting a desired protein from a cell is called protein extraction and purification. The process of extracting is mostly universal, there are a variety of ways in which proteins could be purified from other constituents such cell debris. There is precipitation, Chromatography, and Electrophoresis. Each of them have their own procedures and reasons of use (Electrophoresis is often used after Chromatography for further analysis). This experiment will be using the technique of affinity Chromatography based protein purification. Affinity Chromatography is a very commonly used method of protein purification, where it takes advantage of the Histidine amino acid's strong affinity towards metal ions. Engineering the DNA sequence by adding in the Histidine (His) tag to a specific sequence, the desired protein will contain the amino acid and can be purified through the use of its engineered affinity.

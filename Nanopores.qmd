@@ -1,0 +1,43 @@
+---
+title: "Nanopore DNA Sequencing"
+format: html
+editor: visual
+---
+
+**Procedure**
+
+The procedures are separated into multiple parts which are **DNA repair and end-prep**, **Native barcode ligation**, **Adapter ligation and clean up**, and **Priming and loading the spotON flow cell**.
+
+**DNA repair and end-prep**
+
+-Prepare a DNA sample of at least 400 ng (Measure concentration and calculate)
+
+-Prepare the proprietary NEBNext FFPE DNA repair Mix and NEBNext Ultra II End Repair Mix
+
+\*The two mixes first repair the ends of the DNA fragments to a blunt end and then attaches a A base to the 3' end and phosphorylates the 5' end. This is for the attachment of barcodes and adapters in the later steps
+
+\*Both mixes above are proprietary, meaning the components are not made public. So the explanations will be done based off what they do rather their constituents.
+
+-The table below shows the amounts of each reagent. The instructions recommends to create a mastermix for both of the enzyme mixes of total volume3 $\mu L$ for ease of mixing
+
+\*Make sure to vortex the buffers first before using them for there may be precipitates.
+
+\*Pipette 10 \~ 20 times each addition
+
+(did not include Diluted DNA Control Sample out of simplicity)
+
+|                                   |                           |
+|-----------------------------------|:-------------------------:|
+| **Reagent**                       | **Volume (** $\mu L$**)** |
+| DNA Sample                        |            12             |
+| NEBNext FFPE DNA Repair Buffer    |           0.875           |
+| Ultra II End-prep Reaction Buffer |           0.875           |
+| Ultra II End-prep Enzyme Mix      |           0.75            |
+| NEBNext FFPE DNA Repair Mix       |            0.5            |
+| **Total**                         |            15             |
+
+-Place in Thermocycler and put the settings as 20 $C^o$ for 5 minutes and 65 $C^o$ for 5 minutes.
+
+-Transfer to the Eppendorf DNA low-Bind Tube
+
+This Completes the **DNA repair and end-prep** step.
