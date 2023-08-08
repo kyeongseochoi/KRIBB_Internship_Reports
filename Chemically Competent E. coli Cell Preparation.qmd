@@ -1,0 +1,56 @@
+---
+title: "Chemically Competent E.coli Cell Preparation"
+author: "Kyeongseo Choi"
+format: html
+editor: visual
+---
+
+**Introduction**
+
+During Heat Shock Transformation, along with the heat shocking of the cell, there is another major factor that ultimately allows for the cell to go through transformation. If a normal, untreated E. coli cell were to used for transformation, the rate of material exchange between the inside and outside the cell is not that great. So, cells goes through a process before where they are treated either chemically or electrically that would allow material exchange to happen more readily, and this is known as giving cells **competence**. There are mainly two ways of giving cells competence, which are chemical and electrical. For this experiment, the competence will be given chemically using a solution of $CaCl_2$. The reason for $CaCl_2$ being able to give cell competence because the positive $Ca^{2+}$ ion sticks to the surface of the cells, which have a negative charge due to the phospholipid bilayer, electrically neutralizing the surface. Because DNA is also inherently negatively charged, this allows the DNA to pass through the membrane layer readily when pores are created through heat shocking the cell. The combination of giving cells competence and heat shocking it ultimately what allows the cells to readily take up genetic material from their surroundings. The briefly mentioned giving cells competence electrically is known as Electroporation.
+
+**Materials**
+
+-DH5 Plasmid E. Coli Colony Liquid
+
+-100mL Liquid Solution LB
+
+-Fume hood
+
+-Spectrophotometer
+
+-Chilled tips and Falcon Tubes
+
+**Procedures**
+
+**Growing Sub-Culture**
+
+**Main Culture**
+
+-Bring the LB Broth sub-culture of $DH5\alpha$ and extract 2 $\mu L$ and pipette into the 100 mL LB Broth. Make sure to sterilize all the lid opening and also be careful for the pipette tips not make contact anywhere other than the LB to prevent contamination.
+
+-Place the 100 mL seeded broth into a shaking incubator and the set the settings to $37C^o$ with the shacking being 250 \~ 300 rpm.
+
+-The culture will be grown until the OD-600 will equal 0.4. The OD is measured by using the Spectrophotometer, and it is good to start measuring after 2 hours.
+
+\*When the measurement approaches 0.2 or above, measure every 30 minutes.
+
+-When 0.4 OD is reached, place the main culture into a ice box and let it sit for 15 minutes.
+
+-Bring two chilled Falcon tubes and place 50 mL into each tube.
+
+-Set the centrifuge to $4^oC$ and spin them at 3500 rpm for 5 minutes. Discard the supernatant after.
+
+-Pipette 100 $\mu L$ of 0.1 M $CaCl_2$ solution into each tubes and mix it with the sterilized loop.
+
+-Place the two tubes in a ice box and leave it for 30 minutes.
+
+-Centrifuge at $4C^o$ with 3500 rpm for 5 minutes.
+
+-Throw out the supernatant and pipette 2 mL of refrigerated \*$CaCl_2/20$% Glycerol Solution into the tubes and resuspend them through flicking.
+
+\- Place the two tubes in the ice box for 45 minutes.
+
+-Prepare chilled 1.5 mL tubes and aliquote 50 $\mu L$ into each tube.
+
+-Place it in deep freezer (-80 $C^o$) for future use.

@@ -36,7 +36,7 @@ As it can be seen in the diagram above, the end result is the doubling in the nu
 -For preparing the solution to put in the Thermocycler, the colony, foward & reverse primers, Polymerase mix have to added in a certain proportion with the final volume being 20 $\mu L$. The components are shown in the table below.
 
 |                                  |                                                 |
-|-----------------------------|-------------------------------------------|
+|----------------------------------|-------------------------------------------------|
 | **Components**                   | **Volume (**$\mu L$) (Total Volume: 20 $\mu L$) |
 | Colony                           | 1                                               |
 | PCR Master mix Premix            | 10                                              |
@@ -49,7 +49,7 @@ As it can be seen in the diagram above, the end result is the doubling in the nu
 -Use the Thermocycler with the settings shown below.
 
 |                  |              |        |                                          |
-|--------------|:------------:|:------------:|:-----------------------------:|
+|------------------|:------------:|:------:|:----------------------------------------:|
 | **Steps**        | Temp ($C^o$) |  Time  |                  Cycles                  |
 | Pre-Denaturation |      95      | 5 min  |                 1 cycle                  |
 | Denaturation     |      95      | 20 sec | 30 cycles from Denaturation to Extension |
