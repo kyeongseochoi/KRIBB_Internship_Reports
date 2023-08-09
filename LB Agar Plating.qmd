@@ -1,0 +1,66 @@
+---
+title: "LB Agar Plating"
+author: Kyeongseo Choi
+format: html
+editor: visual
+---
+
+**Introduction**
+
+E. coli is extensively used in bio engineering labs because of their resilience and well understood genetics. The rapid growth rate the easy to manipulate genetically, make E. coli fantastic specimens for observing phenotypic change resulting from genetic manipulation. Researchers try to maximize the E. coli's previously mentioned strengths to more efficiently study them in labs. One these ways to create a ideal condition of growth for the bacteria, a place their rapid growth can be put into full gear. This conditions that researchers created are known as LB Agar Plates. The LB(Lysogeny Broth) is what contains all the nutrients that E. coli could need to exponentially grow their numbers, and Agar(Agarose) is what solidifies the LB onto a plate and also a surface for the bacteria colonies to attach and grow. When the E. coli are seeded in the plate, they are placed in incubators which have a temperature of $37C^o$ and a humidity level of 95% that creates the most ideal condition for the E. coli to grow. Also for LB Agar plates, antibiotics can be added on as a component to select E. coli cells with a desired genetic makeup. The following experiment will go through the process of the creating a LB Agar plate that contains Ampicilin. Also, plating is technically not the only option to culture cells, for they can be made in liquid form known as LB Broth. This omits the addition of Agar.
+
+**Materials**
+
+-LB Broth
+
+-DW
+
+-Agarose Powder
+
+-Plates
+
+-Ampicilin (100mg/mL)
+
+-Steam sterilizer
+
+-Erlenmeyer Flask 500 mL
+
+-Spatula
+
+-Magnetic Stirrer
+
+-Aluminum foil
+
+**Procedures**
+
+-For this experiment, a 200 mL Ampicilin added LB Agar plate will be created.
+
+-First prepare 500 mL Erlenmeyer flask and add the components according to the table below.
+
+(LB used is High salt type)
+
+|                                     |                         |
+|:-----------------------------------:|:-----------------------:|
+|             Components              |         Amount          |
+|                 DW                  |         200 mL          |
+|             Agar Powder             |           3g            |
+|        LB (High Salt) Powder        |           4g            |
+| Ampicilin (**Add After Autoclave**) | 200 $\mu L$ (AMP 1000x) |
+
+-Place a magnetic stirrer inside the flask and mix the components to fully dissolve (avoid any bubbles)
+
+-Cover the opening with a double layer aluminum foil (The shiny side should be facing inside the flask)
+
+-Place the flask inside the autoclave and sterilize it.
+
+-After sterilization, wait until the temperature of the solution to drop to 30 \~ 40 $C^o$ (Anything higher might damage the later added antibiotic)
+
+-After adding the Ampicilin, once again stir with being very careful not form any bubbles.
+
+-Bring the flask under the fume hood and bring in the fully sealed plates.
+
+-Start pouring the solutions into each plate. The solution should be poured until it fills up 80 percent of the plate. After that swirl the plate around so the solution completely covers the plate. The approximate amount is 25 mL in each plate. Make sure not to underpour, for it might interfere with bacteria growth.
+
+-Let it sit with the lids open for the plates to solidify.
+
+-Label the plates appropriates and the date and the person who created them and store them in a refrigerator.
